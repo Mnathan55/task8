@@ -30,7 +30,8 @@ export default function HomePage() {
         </h1>
         
         <p className="text-xl md:text-2xl text-gray-300 mb-12 leading-relaxed">
-          Connect with trusted professionals for all your needs. From plumbers to pandits, we've got you covered.
+          Connect with trusted professionals for all your needs. From plumbers to pandits, we&apos;ve got you covered.
+
         </p>
 
         {/* CTA Buttons */}
